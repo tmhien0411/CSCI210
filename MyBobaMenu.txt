@@ -1,0 +1,11 @@
+Drink No- Drink Name                  -Price 
+1- Strawberry Yogurt                  -6.50
+2- Matcha Bubble                      -6.50
+3- Lychee Tea                         -6.25
+4- Jasmin Green Milk Tea              -5.95
+5- Roasted Oolong Milk Tea            -5.95
+6- Sparkling Passion                  -6.35
+7- Passion Fruit Yakult               -6.45        
+8- Mango Yakult                       -6.45
+9- Tiger Milk                         -6.25
+10- Toasty Milk                        -6.25
